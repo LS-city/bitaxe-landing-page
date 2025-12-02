@@ -1,7 +1,7 @@
 import React from 'react';
 import { Zap, VolumeX, Wifi, ShieldCheck } from 'lucide-react';
 
-export const AFFILIATE_LINK = "https://www.bitaxe.com/affiliate";
+export const AFFILIATE_LINK = "https://bitcoinmerch.com/products/bitcoin-merch-bitaxe-601-gamma-power-supply-bitcoin-miner-1-2th-s?_pos=1&_sid=fade17178&_ss=r&aff=807affiliate";
 
 export const FEATURES = [
   {
