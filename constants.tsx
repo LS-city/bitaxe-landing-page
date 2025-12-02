@@ -1,12 +1,11 @@
 import React from 'react';
 import { Zap, VolumeX, Wifi, ShieldCheck } from 'lucide-react';
 
-export const AFFILIATE_LINK = "https://bitcoinmerch.com/products/bitcoin-merch-bitaxe-601-gamma-power-supply-bitcoin-miner-1-2th-s?_pos=1&_sid=fade17178&_ss=r&aff=807affiliate";
-
+export const AFFILIATE_LINK = "https://bitcoinmerch.com/products/bitcoin-merch-bitaxe-601-gamma-power-supply-bitcoin-miner-1-2th-s?_pos=1&_sid=fade17178&_ss=r&aff=807";
 export const FEATURES = [
   {
     title: "Silent Operation",
-    description: "No screaming fans. Bitaxe uses a high-efficiency heatsink and quiet fan, making it perfect for your desktop or living room.",
+    description: "No screaming fans. Project ANON uses a high-efficiency heatsink and quiet fan, making it perfect for your desktop or living room.",
     icon: <VolumeX className="w-8 h-8 text-[#FF6B00]" />,
   },
   {
@@ -29,7 +28,7 @@ export const FEATURES = [
 export const FAQS = [
   {
     question: "How much Bitcoin will I earn?",
-    answer: "Bitaxe is a solo miner (lottery miner). You earn nothing unless you find a block, in which case you win the full block reward (currently 3.125 BTC + fees). It is a long-shot lottery ticket that runs 24/7."
+    answer: "Project ANON is a solo miner (lottery miner). You earn nothing unless you find a block, in which case you win the full block reward (currently 3.125 BTC + fees). It is a long-shot lottery ticket that runs 24/7."
   },
   {
     question: "Is it easy to set up?",
